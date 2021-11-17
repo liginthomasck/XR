@@ -198,9 +198,7 @@ shifts.
 1. Entertainment and gaming
 2. Employees and Consumers
 3. Healthcare
-4. Marketing and business solutions
-
-
+4. Marketing and business solutions.
 
 
 7. CONCLUSION
